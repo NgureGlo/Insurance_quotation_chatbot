@@ -1,4 +1,4 @@
-# **Insurance Quotation Automation Using Rasa Chatbot**
+# **QuoteEase: Automated Insurance Quote Generator**
 ![Alt text](./images/pic2.webp)
 
 
